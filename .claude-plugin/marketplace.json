@@ -1,0 +1,5 @@
+{
+  "name": "cave-terminal",
+  "owner": { "name": "JuanJ1019" },
+  "plugins": [{ "name": "cave-terminal", "source": "./" }]
+}
